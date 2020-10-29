@@ -42,12 +42,12 @@ Author: Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu
 
 ## **Results**
 
-iWave++ outperforms [Joint](http://papers.nips.cc/paper/8275-joint-autoregressive-and-hierarchical-priors-for-learned-image-compression), [Variational](https://arxiv.org/abs/1802.01436), and [iWave](https://ieeexplore.ieee.org/abstract/document/8931632). For more information, please refer to the paper.
+1. Decompose image iWave, compared with CDF9/7.
 
-1. RGB PSNR on Kodak dataset.
+![image](https://github.com/mahaichuan/iWave/blob/main/figs/decom.PNG)
 
-![image](https://github.com/mahaichuan/Versatile-Image-Compression/blob/master/figs/Kodak.PNG)
+2. Reconstructions (gray-scale image pathes from Kodak-05 and Kodak-08), compared with JPEG-2000 (Jasper), at the same bit rate.
 
-2. RGB PSNR on Tecnick dataset.
+![image](https://github.com/mahaichuan/iWave/blob/main/figs/patches-1.PNG)
 
-![image](https://github.com/mahaichuan/Versatile-Image-Compression/blob/master/figs/Tecnick.PNG)
+![image](https://github.com/mahaichuan/iWave/blob/main/figs/patches-2.PNG)
