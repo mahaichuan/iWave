@@ -42,11 +42,11 @@ Author: Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu
 
 ## **Results**
 
-1. Decompose image iWave, compared with CDF9/7.
+1. Decompose image iWave, compared with CDF9/7. (top: CDF9/7, bottom: iWave)
 
 ![image](https://github.com/mahaichuan/iWave/blob/main/figs/decom.PNG)
 
-2. Reconstructions (gray-scale image pathes from Kodak-05 and Kodak-08), compared with JPEG-2000 (Jasper), at the same bit rate.
+2. Reconstructions (gray-scale image pathes from Kodak-05 and Kodak-08), compared with JPEG-2000 (Jasper), at the same bit rate. (top: CDF9/7, bottom: iWave)
 
 ![image](https://github.com/mahaichuan/iWave/blob/main/figs/patches-1.PNG)
 
