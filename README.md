@@ -35,14 +35,14 @@ Author: Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu
 
 1. Transform an image with transform.py. PTAHs or image SIZE need to be modified.
 
-2. Reconstruct an image from iWave cofficients with inver_transform.py. PTAHs or image SIZE need to be modified.
+2. Reconstruct an image from iWave cofficients with inverse_transform.py. PTAHs or image SIZE need to be modified.
 
 3. Have fun!
 
 
 ## **Results**
 
-1. Decompose image iWave, compared with CDF9/7. (top: CDF9/7, bottom: iWave)
+1. Decompose image with iWave, compared with CDF9/7. (top: CDF9/7, bottom: iWave)
 
 ![image](https://github.com/mahaichuan/iWave/blob/main/figs/decom.PNG)
 
