@@ -1,7 +1,7 @@
 # iWave
 Wavelet-like Transform with CNN re-implementation.
 
-This repo provides the official implementation of "[iWave: CNN-Based Wavelet-Like Transform for Image Compression]".
+This repo provides the official implementation of "[iWave: CNN-Based Wavelet-Like Transform for Image Compression](https://ieeexplore.ieee.org/abstract/document/8931632)".
 
 Accepted by IEEE TMM.
 
