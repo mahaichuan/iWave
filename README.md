@@ -10,11 +10,17 @@ Author: Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu
 ## **BibTeX**
 
 @article{ma2019iwave,
+
   title={iWave: CNN-Based Wavelet-Like Transform for Image Compression},
+  
   author={Ma, Haichuan and Liu, Dong and Xiong, Ruiqin and Wu, Feng},
+  
   journal={IEEE Transactions on Multimedia},
+  
   year={2019},
+  
   publisher={IEEE}
+  
 }
 
 ## **Update Notes**
