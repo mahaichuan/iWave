@@ -33,13 +33,11 @@ Author: Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu
 
 0. Dependencies. We test with MIT deepo docker image.
 
-1. Clone this github repo.
+1. Transform an image with transform.py. PTAHs or image SIZE need to be modified.
 
-2. Place Test images. (The code now only supports images whose border length is a multiple of 16. However, it is very simple to support arbitrary boundary lengths by padding.)
+2. Reconstruct an image from iWave cofficients with inver_transform.py. PTAHs or image SIZE need to be modified.
 
-3. Download models. See **model** folder.
-
-4. python main_testRGB.py. (The path in main_testRGB.py needs to be modified. Please refer to the code.)
+3. Have fun!
 
 
 ## **Results**
